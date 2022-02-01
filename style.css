@@ -14,3 +14,7 @@ p {
 #githubLogo{
     height: 50px;
 }
+
+.projectName{
+    list-style-type: square;
+}
