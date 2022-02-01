@@ -1,0 +1,16 @@
+h1 {
+    font-size: 5em;
+}
+
+img {
+    height: 350px;
+}
+
+p {
+    color: rgba(0, 238, 255, 0.589);
+    background-color: rgba(20, 28, 29, 0.589);
+}
+
+#githubLogo{
+    height: 50px;
+}
