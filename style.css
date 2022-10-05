@@ -1,20 +1,26 @@
-h1 {
-    font-size: 5em;
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src: local(Inter-Thin) format("truetype");
 }
 
-img {
-    height: 350px;
+h1{
+    font-size: 4em;
 }
 
-p {
-    color: rgba(0, 238, 255, 0.589);
-    background-color: rgba(20, 28, 29, 0.589);
+p { 
+    font-family:Inter,Arial; 
 }
 
-#githubLogo{
-    height: 50px;
+h1{
+    text-align:center;
+
 }
 
-.projectName{
-    list-style-type: square;
+#myPictureWrapper{
+    text-align: center;
+}
+
+body {
+
+    background-color: #a0adca;
 }
