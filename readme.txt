@@ -28,19 +28,21 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 (b) CSS features
-
+    Google font
+    Text color change
 
 
 (c) Advanced features
-
+    Form 
 
 
 3. How long, in hours, did it take you to complete this assignment?
-
+6 hours
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
 https://www.w3schools.com/
+https://stackoverflow.com/
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?

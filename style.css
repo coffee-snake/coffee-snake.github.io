@@ -24,3 +24,17 @@ body {
 
     background-color: #a0adca;
 }
+
+#formContainer{
+    background-color: lightpink;
+    width: 50%;
+}
+
+#nameInput{
+
+    width: 30%;
+}
+
+#emailInput{
+    width: 30%;
+}
