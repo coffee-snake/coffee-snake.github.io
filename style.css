@@ -47,6 +47,10 @@ body>div{
     font-size:1em;
 }
 
+#aboutMe{
+    color:#6c27c2;
+}
+
 .project{
     margin-left: 3%;
 }
