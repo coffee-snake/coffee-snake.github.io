@@ -13,18 +13,18 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 14/14
 - 1/1 Readme
 - 3/3 Basic HTML content
-- */3 Basic CSS styling
-- */1 Advanced feature
-- */3 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 3/3 Basic CSS styling
+- 1/1 Advanced feature
+- 3/3 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
     At least one image, with descriptive alt attribute(s) -> A picture of myself
     Appropriate heading and paragraph text
-    Links to external pages -> Typeracer and and github logo both linked to another page 
+    Links to external pages -> Github and Typeracer logo both linked to another page 
 
 
 (b) CSS features
@@ -33,16 +33,18 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 (c) Advanced features
-    Form 
+    Contact form at the bottom
 
 
 3. How long, in hours, did it take you to complete this assignment?
-6 hours
+8 hours
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
 https://www.w3schools.com/
 https://stackoverflow.com/
+https://www.crazyegg.com/blog/website-color-palettes/
+
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?

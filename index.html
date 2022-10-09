@@ -13,29 +13,34 @@ EMAIL: zwu25@uci.edu
    <!-- you would link to an external stylesheet here! -->
   <link rel="stylesheet" href="style.css">
    <!-- you would also link to Bootstrap here! -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+
   <title>Brady Wu's Portfolio</title>
 </head>
 <body>
 
 
-  <h1>Brady Wu's Coding Snippets</h1>
+  <h1>Brady Wu's Coding Projects</h1>
 
-  <div id= "myPictureWrapper" ><img src="myPicture.jpg"  alt="A picture of Brady Wu smiling" style="width:430em; height:580em;" ></div>
+  <div id= "myPictureWrapper" ><img src="myPicture.jpg"  alt="A picture of Brady Wu smiling" style="width: 34%; height:10%" ></div>
   
+  <h2>About Me</h2>
 
-  <h2>Below is a list of some of the projects I have done and my keytake aways from them</h2>
+  <p id="test">Hello, I'm Brady Wu a third year student studying computer science at UCI. I started my coding journey at 16 when I took
+  AP Computer Science for fun and have been immsersed in the programming world ever since then. I working on this website was a great chance
+  for me to experiment with some frontend. Let me know if you want to work on a project together my resume is linked <a target="blank" href="https://docs.google.com/document/d/1wt_51oSlYU_ONOTotXJGu0vzq19k-1Y7SxrczRG8SMw/edit?usp=sharing">here</a>.</p>
 
-  <!-- <p>
-    <a href="http://validator.w3.org/check?uri=referer">
-       W3C validator
-    </a>
-  </p> -->
+  <h2 >Projects</h2>
+    
+  <h4>Stock Crawler</h4>
+  <div class="project">Created using python and leverages the tradier API to update historical data for more than 5000 stocks daily.</div>
+  <h4>Image Classifier</h4>
+  <div class="project" >Simple image processing tool used for picking up numbers in an image. Implemented as a convolutional nueral network in python with the help of pandas, numpy, and tensorflow</div>
+  <h4>Genetic Disease Lineage Simulation</h4>
+  <div class="project">Used to visualize the spread of recessive alleles throughout a population over multiple generations. Entire program is made in google sheets.</div>
 
   <footer>
     <div id="formContainer">
-      <p>Send me a message by filling out the following data</p>
+      <div><h2>Contact Me</h2></div>
       <form>
         <label>Name</label><br>
         <input type="text" id="nameInput"><br>
@@ -50,10 +55,10 @@ EMAIL: zwu25@uci.edu
   
   
     <a href="https://github.com/coffee-snake" target="blank">
-      <img src="github.png" alt="logo for github" height="2%" width="2%">
+      <img src="github.png" alt="logo for github" class="social">
     </a>
     <a href="https://keyhero.com/profile/150goal/" target="blank">
-      <img src="keyhero.png" alt="logo for keyhero" height="2%" width="2%">
+      <img src="keyhero.png" alt="logo for keyhero" class="social">
     </a>
   
   </footer>
