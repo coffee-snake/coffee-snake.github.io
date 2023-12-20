@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.493e9497.css",
-    "main.js": "/react-gh-pages/static/js/main.210fed90.js",
-    "static/js/787.7da95b79.chunk.js": "/react-gh-pages/static/js/787.7da95b79.chunk.js",
-    "static/media/starrySky.jpg": "/react-gh-pages/static/media/starrySky.d5ddd47c02eee9638e3a.jpg",
-    "static/media/Screenshot 2023-12-18 005829.png": "/react-gh-pages/static/media/Screenshot 2023-12-18 005829.5fccc5830b176776d406.png",
-    "static/media/github.svg": "/react-gh-pages/static/media/github.439ff407323a211b91f4b4a532b5d000.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.493e9497.css.map": "/react-gh-pages/static/css/main.493e9497.css.map",
-    "main.210fed90.js.map": "/react-gh-pages/static/js/main.210fed90.js.map",
-    "787.7da95b79.chunk.js.map": "/react-gh-pages/static/js/787.7da95b79.chunk.js.map"
+    "main.css": "/static/css/main.1424bda6.css",
+    "main.js": "/static/js/main.5f318082.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/starrySky.jpg": "/static/media/starrySky.d5ddd47c02eee9638e3a.jpg",
+    "static/media/resumePic.png": "/static/media/resumePic.1a2d02dc91bb5213962f.png",
+    "static/media/Screenshot 2023-12-18 005829.png": "/static/media/Screenshot 2023-12-18 005829.5fccc5830b176776d406.png",
+    "static/media/github.svg": "/static/media/github.439ff407323a211b91f4b4a532b5d000.svg",
+    "index.html": "/index.html",
+    "main.1424bda6.css.map": "/static/css/main.1424bda6.css.map",
+    "main.5f318082.js.map": "/static/js/main.5f318082.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.493e9497.css",
-    "static/js/main.210fed90.js"
+    "static/css/main.1424bda6.css",
+    "static/js/main.5f318082.js"
   ]
 }
